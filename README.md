@@ -10,4 +10,10 @@ Planned Features
 
 Planned Inputs and Outputs
 - The user will input their location and the code will print on their current weather conditions, educate them on early-warning signs, and instructions on what to do to prepare for flooding.
+
+
+
+#Trixie Bentayan
+#Mico Batula
+#Lance Babael
   
